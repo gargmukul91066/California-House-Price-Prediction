@@ -118,7 +118,7 @@ streamlit run app.py
 
 Explore the data analysis and model training:
 ```bash
-jupyter notebook "USA House Price Prediction.ipynb"
+jupyter notebook "House_Price_Prediction.ipynb"
 ```
 
 <br>
