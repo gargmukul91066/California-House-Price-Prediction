@@ -46,7 +46,7 @@ st.markdown(
 )
 
 # Streamlit app title
-st.markdown('<h1 class="title">🏡 House Price Prediction App</h1>', unsafe_allow_html=True)
+st.markdown('<h1 class="title"> House Price Prediction App</h1>', unsafe_allow_html=True)
 
 # Add a disclaimer message
 st.markdown("""
@@ -67,35 +67,35 @@ col1, col2 = st.columns(2)
 
 with col1:
     average_area_income = st.number_input(
-        "💰 Average Area Income ($)",
+        " Average Area Income ($)",
         value=50000,
         help="Enter the average income in the area in dollars."
     )
     average_age_of_house = st.number_input(
-        "🏠 Average Age of House (years)",
+        " Average Age of House (years)",
         value=10,
         help="Enter the average age of houses in the area in years."
     )
 
 with col2:
     number_of_rooms = st.number_input(
-        "🛏️ Number of Rooms",
+        " Number of Rooms",
         value=7,
         help="Enter the average number of rooms in the houses."
     )
     number_of_bedrooms = st.number_input(
-        "🛌 Number of Bedrooms",
+        " Number of Bedrooms",
         value=3,
         help="Enter the average number of bedrooms in the houses."
     )
     area_population = st.number_input(
-        "👥 Area Population",
+        " Area Population",
         value=100000,
         help="Enter the total population in the area."
     )
 
 # Button to predict
-if st.button("🔍 Predict"):
+if st.button(" Predict"):
     # Prepare input data for prediction
     input_data = np.array([[average_area_income, average_age_of_house, 
                              number_of_rooms, number_of_bedrooms, 
@@ -105,7 +105,7 @@ if st.button("🔍 Predict"):
     prediction = model.predict(input_data)
     
     # Display prediction result
-    st.subheader("✨ Prediction Result")
+    st.subheader("Prediction Result")
     st.write(f"The predicted price for the house is: **${prediction[0]:,.2f}**")
     
 # Footer with developer name
