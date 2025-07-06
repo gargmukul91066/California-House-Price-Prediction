@@ -7,18 +7,9 @@
 
 This project is a house price prediction system built using **Streamlit** and **scikit-learn**. It uses a linear regression model trained on the **USA Housing** dataset to estimate house prices based on factors such as area income, house age, number of rooms, number of bedrooms, and area population. The interactive web app allows users to input these parameters and receive real-time price predictions with an intuitive and clean interface.
 
-## Live Demo
 
-Explore the House Price Predictor! 👉 [![Experience It! 🌟](https://img.shields.io/badge/Experience%20It!-blue)](https://valuemyhouse.streamlit.app/)
 
-<br>
 
-_Below is a preview of the House Price Prediction System in action. Enter house details to get an instant price estimate! 👇🏻_
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/bfff63d3-a2f3-4aa6-8da5-ad89bcab1c74" alt="house">
-</p>
-
-<br>
 
 ### Learning Journey 🗺️
 
