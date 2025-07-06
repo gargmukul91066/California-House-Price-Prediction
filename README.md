@@ -86,8 +86,8 @@ This journey has not only improved my technical skills but also deepened my unde
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/hk-kumawat/House-Price-Predictor.git
-   cd hk-kumawat-house-price-predictor
+   https://github.com/gargmukul91066/USA-House-Price-Prediction.git
+   cd USA-House-Price-Prediction
    ```
 
 2. **Create & Activate a Virtual Environment (optional but recommended):**
@@ -229,7 +229,7 @@ The project uses the `USA_Housing.csv` dataset which includes:
 ```plaintext
 hk-kumawat-house-price-predictor/
 ├── README.md                    # Project documentation
-├── House_Price_Prediction.ipynb # Jupyter notebook for analysis
+├── USA House Price Prediction.ipynb # Jupyter notebook for analysis
 ├── USA_Housing.csv             # Dataset file
 ├── app.py                      # Streamlit application
 ├── df.pkl                      # Pickled DataFrame
@@ -295,9 +295,8 @@ This project is licensed under the **MIT License** — see the [LICENSE](./LICEN
 ### 📬 Get in Touch!
 Feel free to reach out for collaborations or questions:
 
-- [![GitHub](https://img.shields.io/badge/GitHub-hk--kumawat-blue?logo=github)](https://github.com/hk-kumawat) 💻 — Explore more projects by Harshal Kumawat.
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshal%20Kumawat-blue?logo=linkedin)](https://www.linkedin.com/in/harshal-kumawat/) 🌐 — Let's connect professionally.
-- [![Email](https://img.shields.io/badge/Email-harshalkumawat100@gmail.com-blue?logo=gmail)](mailto:harshalkumawat100@gmail.com) 📧 — Reach out for inquiries or collaboration.
+- [![GitHub](https://github.com/hk-kumawat) 💻 — Explore more projects by Harshal Kumawat.
+- [![LinkedIn](https://www.linkedin.com/in/mukul-garg-5b533b245/) 🌐 — Let's connect professionally.
 
 <br>
 
