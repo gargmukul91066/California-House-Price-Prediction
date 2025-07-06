@@ -218,7 +218,7 @@ The project uses the `USA_Housing.csv` dataset which includes:
 ```plaintext
 house-price-predictor/
 ├── README.md                    # Project documentation
-├── USA House Price Prediction.ipynb # Jupyter notebook for analysis
+├── House_Price_Prediction.ipynb # Jupyter notebook for analysis
 ├── USA_Housing.csv             # Dataset file
 ├── app.py                      # Streamlit application
 ├── df.pkl                      # Pickled DataFrame
