@@ -238,7 +238,7 @@ house-price-predictor/
 ### 📬 Get in Touch!
 Feel free to reach out for collaborations or questions:
 
-- [![GitHub](https://github.com/hk-kumawat) 💻 — Explore more projects by Harshal Kumawat.
+- [![GitHub](https://github.com/hk-kumawat) 💻 — Explore more projects by Mukul Garg.
 - [![LinkedIn](https://www.linkedin.com/in/mukul-garg-5b533b245/) 🌐 — Let's connect professionally.
 
 <br>
