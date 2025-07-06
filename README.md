@@ -49,10 +49,8 @@ This journey has not only improved my technical skills but also deepened my unde
 6. [Data Preprocessing](#data-preprocessing)
 7. [Model Training](#model-training)
 8. [Results](#results)
-10. [Future Enhancements](#future-enhancements)
-11. [Contributing](#contributing)
-12. [License](#license)
-13. [Contact](#contact)
+9. [License](#license)
+10. [Contact](#contact)
 
     
 <br>
@@ -231,54 +229,8 @@ house-price-predictor/
 <br>
 
 
-## Future Enhancements🚀
-
-- **Model Improvements:**  
-  - Explore advanced regression techniques and ensemble methods for higher prediction accuracy.
-- **Feature Engineering:**  
-  - Incorporate additional features or perform more detailed feature selection.
-- **UI Enhancements:**  
-  - Improve the Streamlit interface with more dynamic visualizations and user-friendly design elements.
-- **Data Updates:**  
-  - Update the dataset with more recent housing market data for better model performance.
-- **Mobile Responsiveness:**  
-  - Develop a mobile-friendly version of the app.
- 
-<br>
 
 
-## Contributing🤝
-
-Contributions make the open source community such an amazing place to learn, inspire, and create. 🙌 Any contributions you make are greatly appreciated! 😊
-
-Have an idea to improve this project? Go ahead and fork the repo to create a pull request, or open an issue with the tag **"enhancement"**. Don't forget to give the project a star! ⭐ Thanks again! 🙏
-
-<br>
-
-1. **Fork** the repository.
-
-2. **Create** a new branch:
-   ```bash
-   git checkout -b feature/YourFeatureName
-   ```
-
-3. **Commit** your changes with a descriptive message.
-
-4. **Push** to your branch:
-   ```bash
-   git push origin feature/YourFeatureName
-   ```
-
-5. **Open** a Pull Request detailing your enhancements or bug fixes.
-
-<br> 
-
-
-## License📝
-
-This project is licensed under the **MIT License** — see the [LICENSE](./LICENSE) file for details.
-
-<br>
 
 
 ## Contact
