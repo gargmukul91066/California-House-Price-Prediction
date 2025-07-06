@@ -227,7 +227,7 @@ The project uses the `USA_Housing.csv` dataset which includes:
 ## Directory Structure📁
 
 ```plaintext
-hk-kumawat-house-price-predictor/
+house-price-predictor/
 ├── README.md                    # Project documentation
 ├── USA House Price Prediction.ipynb # Jupyter notebook for analysis
 ├── USA_Housing.csv             # Dataset file
