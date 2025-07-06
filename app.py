@@ -109,4 +109,4 @@ if st.button(" Predict"):
     st.write(f"The predicted price for the house is: **${prediction[0]:,.2f}**")
     
 # Footer with developer name
-st.markdown('<div class="footer">Developed by - Harshal Kumawat</div>', unsafe_allow_html=True)
+st.markdown('<div class="footer">Developed by - Mukul Garg</div>', unsafe_allow_html=True)
